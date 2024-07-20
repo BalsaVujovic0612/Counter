@@ -1,0 +1,55 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: chocolate;
+}
+
+
+.container{
+    width: 500px;
+    background-color: white;
+    padding: 100px;
+    text-align: center;
+     
+}
+
+
+
+.inc{
+    background-color: wheat;
+    border: none;
+    border-radius: 10px;
+    height: 50px;
+    width: 100px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.dec{
+    background-color: dodgerblue;
+    border: none;
+    border-radius: 10px;
+    height: 50px;
+    width: 100px;
+    margin-left: 30px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.res{
+    background-color: aquamarine;
+    border: none;
+    border-radius: 10px;
+    height: 50px;
+    width: 100px;
+    margin-left: 30px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+h1{
+    font-size: 50px;
+}
